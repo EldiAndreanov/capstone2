@@ -2,24 +2,24 @@ Judul : Customer LRFM
 
 Target
 
-•	Dewan Direksi
-•	Direktur Utama
-•	Manajer pemasaran
-•	Tim analitik bisnis
+-	Dewan Direksi
+-	Direktur Utama
+-	Manajer pemasaran
+-	Tim analitik bisnis
 
 Visi Misi perusahaan
 
 Visi
 
-•	Menciptakan pengalaman belanja yang menyenangkan dan mudah, di mana pelanggan selalu menemukan produk segar dan berkualitas tinggi dengan nilai terbaik.
-•	Menjadi bagian penting dari komunitas, mendukung keluarga dan gaya hidup sehat melalui produk dan layanan kami.
-•	Menjadi pilihan utama untuk kebutuhan sehari-hari, menginspirasi pelanggan dengan pilihan makanan baru dan menarik serta suasana yang ramah.
+-	Menciptakan pengalaman belanja yang menyenangkan dan mudah, di mana pelanggan selalu menemukan produk segar dan berkualitas tinggi dengan nilai terbaik.
+-	Menjadi bagian penting dari komunitas, mendukung keluarga dan gaya hidup sehat melalui produk dan layanan kami.
+-	Menjadi pilihan utama untuk kebutuhan sehari-hari, menginspirasi pelanggan dengan pilihan makanan baru dan menarik serta suasana yang ramah.
 
 Misi
 
-•	Menyediakan beragam pilihan bahan makanan segar, berkualitas tinggi, dan kebutuhan rumah tangga dengan harga yang kompetitif, disertai pelayanan yang ramah dan efisien.
-•	Menciptakan lingkungan belanja yang bersih, teratur, dan nyaman untuk pengalaman berbelanja yang menyenangkan.
-•	Terus meningkatkan operasional dan penawaran kami untuk memenuhi kebutuhan dan preferensi pelanggan yang terus berubah.
+-	Menyediakan beragam pilihan bahan makanan segar, berkualitas tinggi, dan kebutuhan rumah tangga dengan harga yang kompetitif, disertai pelayanan yang ramah dan efisien.
+-	Menciptakan lingkungan belanja yang bersih, teratur, dan nyaman untuk pengalaman berbelanja yang menyenangkan.
+-	Terus meningkatkan operasional dan penawaran kami untuk memenuhi kebutuhan dan preferensi pelanggan yang terus berubah.
 
 Latar Belakang
 	Dalam lingkungan bisnis supermarket yang kompetitif, pemahaman yang mendalam tentang perilaku pelanggan adalah kunci untuk pertumbuhan dan keberlanjutan. Salah satu metrik terpenting saat menganalisis perilaku pelanggan adalah LRFM data. Yang memiliki makna ketika seorang pelanggan melakukan pembelian terakhir. Analisis terkini memberikan pengetahuan yang berharga tentang partisipasi pelanggan, loyalitas dan tingkat potensi risiko kehilangan pelanggan. 
